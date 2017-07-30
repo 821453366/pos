@@ -28,7 +28,6 @@ function printReceipt(inputs) {
   console.log(expectText);
 }
 
-
 function statistics(inputs) {
   let array_key = [];
   let count = [];
